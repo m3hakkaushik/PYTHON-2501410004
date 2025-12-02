@@ -103,6 +103,7 @@ This analysis could be useful for:
    
 # Project Structure
 
+<img width="576" height="296" alt="Screenshot 2025-12-02 at 4 05 36 PM" src="https://github.com/user-attachments/assets/374da019-bc3f-4e6f-a4a2-1c16908d5e17" />
 
 
     
