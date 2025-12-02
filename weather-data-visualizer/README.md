@@ -4,7 +4,7 @@
 
 This project analyzes Australian weather data to identify patterns and trends in temperature, rainfall, and humidity. The analysis includes statistical computations and data visualizations that help understand climate patterns.
 
-# terminal
+# Terminal
 
 <img width="950" height="437" alt="Screenshot 2025-12-02 at 3 47 39 PM" src="https://github.com/user-attachments/assets/533c30e8-775a-44f2-9cb3-b21511bc3672" />
 
