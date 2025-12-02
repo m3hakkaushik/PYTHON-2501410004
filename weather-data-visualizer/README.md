@@ -83,19 +83,9 @@ This analysis could be useful for:
    
 # Project Structure
 
-weather-data-visualizer/
-│
-├── weather_visualizer.py          # Main analysis script
-├── weatherAUS.csv                 # Original dataset
-├── cleaned_weather_data.csv       # Cleaned dataset
-├── README.md                      # This file
-├── weather_analysis_report.md     # Detailed findings
-│
-└── visualizations/
-    ├── temperature_line_chart.png
-    ├── rainfall_bar_chart.png
-    ├── humidity_temp_scatter.png
-    └── combined_plots.png
+
+<img width="580" height="312" alt="Screenshot 2025-12-02 at 3 39 41 PM" src="https://github.com/user-attachments/assets/63758c91-673d-402b-96d7-af1b2c116b60" />
+
     
 # How to Use
 1. Clone this repository
