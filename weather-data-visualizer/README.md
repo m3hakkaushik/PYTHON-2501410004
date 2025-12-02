@@ -4,30 +4,31 @@
 
 This project analyzes Australian weather data to identify patterns and trends in temperature, rainfall, and humidity. The analysis includes statistical computations and data visualizations that help understand climate patterns.
 
+# terminal
+
+<img width="950" height="437" alt="Screenshot 2025-12-02 at 3 47 39 PM" src="https://github.com/user-attachments/assets/533c30e8-775a-44f2-9cb3-b21511bc3672" />
 
 # Dataset Description
 1. Source: weatherAUS.csv (Australian weather dataset)
 2. Columns Used:
-   ~ Date: Date of observation
-   ~ MinTemp: Minimum temperature (°C)
-   ~ MaxTemp: Maximum temperature (°C)
-   ~ Rainfall: Rainfall amount (mm)
-   ~ Humidity9am: Morning humidity (%)
-   ~ Humidity3pm: Afternoon humidity (%)
+   1. Date: Date of observation
+   2. MinTemp: Minimum temperature (°C)
+   3. MaxTemp: Maximum temperature (°C)
+   4. Rainfall: Rainfall amount (mm)
+   5. Humidity9am: Morning humidity (%)
+   6. Humidity3pm: Afternoon humidity (%)
 3. Tools and Libraries Used
-   ~ Python 3.x: Programming language
-   ~ Pandas: Data loading, cleaning, and manipulation
-   ~ NumPy: Statistical calculations (mean, min, max, standard deviation)
-   ~ Matplotlib: Creating charts and visualizations
+   1. Python 3.x: Programming language
+   2. Pandas: Data loading, cleaning, and manipulation
+   3. NumPy: Statistical calculations (mean, min, max, standard deviation)
+   4. Matplotlib: Creating charts and visualizations
    
 # Installation Instructions
 
 1. Make sure you have Python installed
-2. Install required libraries:
-   ~ pip install pandas numpy matplotlib
+2. Install required libraries: *pip install pandas numpy matplotlib*
 3. Download the weatherAUS.csv file
-4. Run the script:
-   ~ python weather_visualizer.py
+4. Run the script: *python weather_visualizer.py*
    
 # Analysis Process
 
@@ -42,56 +43,74 @@ Created calculated columns (average temperature, average humidity)
 
 4. Statistical Analysis
 Computed key statistics using NumPy:
-   ~ Mean, minimum, maximum temperatures
-   ~ Rainfall totals and averages
-   ~ Humidity variations
+   1. Mean, minimum, maximum temperatures
+   2. Rainfall totals and averages
+   3. Humidity variations
    
 4. Data Visualization
 Created four charts:
-   ~ Line Chart: Daily temperature trends over time
-   ~ Bar Chart: Monthly rainfall totals
-   ~ Scatter Plot: Relationship between humidity and temperature
-   ~ Combined Plot: Temperature and rainfall in one figure
+   1. Line Chart: Daily temperature trends over time
+   2. Bar Chart: Monthly rainfall totals
+   3. Scatter Plot: Relationship between humidity and temperature
+   4. Combined Plot: Temperature and rainfall in one figure
    
 6. Grouping and Aggregation
 Grouped data by month to identify seasonal patterns in:
-   ~ Temperature variations
-   ~ Rainfall distribution
-   ~ Humidity levels
+   1. Temperature variations
+   2. Rainfall distribution
+   3. Humidity levels
    
 # Results and Insights
 
+<img width="217" height="129" alt="image" src="https://github.com/user-attachments/assets/f3538d20-9cff-414f-bf0c-b5b50e13245e" />
+
+
 Key Findings:
-   ~ Temperature: Wide variation showing clear seasonal patterns
-   ~ Rainfall: Distinct wet and dry months identified
-   ~ Humidity-Temperature Relationship: Inverse correlation observed - higher temperatures typically occur with lower humidity
+
+   1. Temperature: Wide variation showing clear seasonal patterns
+   
+   2. Rainfall: Distinct wet and dry months identified
+   
+   3. Humidity-Temperature Relationship: Inverse correlation observed - higher temperatures typically occur with lower humidity
+
+   
 Generated Files:
-   ~ cleaned_weather_data.csv: Cleaned dataset ready for further analysis
-   ~ temperature_line_chart.png: Visual of temperature trends
-   ~ rainfall_bar_chart.png: Monthly rainfall comparison
-   ~ humidity_temp_scatter.png: Humidity vs temperature relationship
-   ~ combined_plots.png: Multiple visualizations in one figure
-   ~ weather_analysis_report.md: Detailed analysis summary
+
+   1. *cleaned_weather_data.csv*: Cleaned dataset ready for further analysis
+   
+   2. *temperature_line_chart.png*: Visual of temperature trends
+   
+   3. *rainfall_bar_chart.png*: Monthly rainfall comparison
+   
+   4. *humidity_temp_scatter.png*: Humidity vs temperature relationship
+   
+   5. *combined_plots.png*: Multiple visualizations in one figure
+   
+   6. *weather_analysis_report.md*: Detailed analysis summary
    
 # Applications
 
 This analysis could be useful for:
-   ~ Campus sustainability initiatives
-   ~ Energy consumption planning
-   ~ Agricultural decision-making
-   ~ Outdoor event scheduling
+
+   1. Campus sustainability initiatives
+   
+   2. Energy consumption planning
+   
+   3. Agricultural decision-making
+   
+   4. Outdoor event scheduling
+   
    
 # Project Structure
 
 
-<img width="580" height="312" alt="Screenshot 2025-12-02 at 3 39 41 PM" src="https://github.com/user-attachments/assets/63758c91-673d-402b-96d7-af1b2c116b60" />
 
     
 # How to Use
-1. Clone this repository
+1. Clone this repository 
 2. Ensure all required libraries are installed
 3. Place the weatherAUS.csv file in the same directory
-4. Run python weather_visualizer.py
+4. Run *python weather_visualizer.py*
 5. Check the output files and visualizations
    
 # Author
@@ -101,6 +120,6 @@ Lasted Date : December 2025
 
 # Acknowledgments
 
-   ~ Dataset source: Australian weather data
-   ~ Course: Programming for Problem Solving using Python
-   ~ Assignment: Weather Data Visualizer Mini Project
+   1. Dataset source: Australian weather data
+   2. Course: Programming for Problem Solving using Python
+   3. Assignment: Weather Data Visualizer Mini Project
