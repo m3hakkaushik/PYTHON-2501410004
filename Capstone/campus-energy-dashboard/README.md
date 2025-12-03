@@ -4,6 +4,14 @@
 
 This capstone project analyzes electricity consumption data from multiple campus buildings to identify energy-saving opportunities. The system automatically reads meter data, performs statistical analysis, and generates visual dashboards to support administrative decision-making.
 
+## Terminal + outcome
+
+<img width="1132" height="231" alt="Screenshot 2025-12-02 at 4 20 13 PM" src="https://github.com/user-attachments/assets/d50eda54-5a35-4fee-94a6-5e77faecc25a" />
+<img width="1448" height="477" alt="Screenshot 2025-12-02 at 4 20 39 PM" src="https://github.com/user-attachments/assets/458cba69-7fc3-4fad-a6a0-6e6d93d0bda8" />
+<img width="1438" height="584" alt="Screenshot 2025-12-02 at 4 20 51 PM" src="https://github.com/user-attachments/assets/9604abf8-8926-4455-a50f-3796e712a39a" />
+<img width="1025" height="295" alt="Screenshot 2025-12-02 at 4 21 46 PM" src="https://github.com/user-attachments/assets/36b091db-5362-4236-b157-76ba83dd978f" />
+
+
 ## Real-World Application
 
 The campus facilities team can use this dashboard to:
