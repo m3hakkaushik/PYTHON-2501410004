@@ -268,10 +268,10 @@ _Statistical Analysis_
 
 Based on typical campus energy data:
 
-High Consumers: Science buildings use 2-3x more energy due to lab equipment
-Weekly Patterns: Weekend usage drops 30-40% in most buildings
-Peak Times: Highest consumption during weekday afternoons
-Opportunities: Target top 2-3 buildings for 60-70% of potential savings
+- High Consumers: Science buildings use 2-3x more energy due to lab equipment
+- Weekly Patterns: Weekend usage drops 30-40% in most buildings
+- Peak Times: Highest consumption during weekday afternoons
+- Opportunities: Target top 2-3 buildings for 60-70% of potential savings
 
 ## Recommendations for Energy Savings
 
